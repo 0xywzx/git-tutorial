@@ -5,3 +5,7 @@ Add
 Commit
 
 Commit
+
+Commit
+
+pull
