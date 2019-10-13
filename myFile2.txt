@@ -1,3 +1,5 @@
 サルでもわかるGitコマンド
 
 Commit
+
+pull
