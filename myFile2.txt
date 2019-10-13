@@ -1,7 +1,9 @@
 サルでもわかるGitコマンド
 
 Add
+Commit
 
+Commit
 Commit
 
 pull
